@@ -1,0 +1,13 @@
+name: "Curriculum Vitae - Midhul Varma"
+description: ""
+
+url: "http://midhul.github.io/"
+
+collections:
+  projects:
+    output: true
+  info:
+    output: true
+
+markdown: rdiscount
+permalink: pretty

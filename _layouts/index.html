@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.name }}</title>
+
+    <link rel="stylesheet" href="{{ site.url }}stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.url }}stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Midhul Varma</h1>
+        <p>Curriculum Vitae</p>
+
+        <p class="view"><a href="{{ site.url }}cv.pdf">View CV in PDF format</a><br>
+        <br>
+        <a href="{{ site.url }}info/projects.html">Projects & Work</a><br>
+        <a href="{{ site.url }}info/contact.html">Contact Info</a>
+        </p>
+
+
+        
+      </header>
+      <section>
+      {{ content }}
+      </section>
+      
+    </div>
+    <script src="{{ site.url }}javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>
