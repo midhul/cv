@@ -4,7 +4,7 @@ description: ""
 url: "http://midhul.github.io/cv/"
 
 collections:
-  info:
+  contact:
     output: true
   projects:
     output: true

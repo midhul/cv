@@ -4,7 +4,11 @@ layout: index
 
 ## List of projects
 
-You can find detailed descriptions of the following projects here:  
+Short descriptions of some of my projects:
+
+* [**WebRTC based Peer Assisted Streaming**]({{site.url}}projects/pastream/)  
+
+Some older projects:
 
 * [**Web based CAPTCHA image recognizer**]({{ site.url }}projects/captcha.html)
 * [**Autonomous Maze Solving Robot**]({{ site.url }}projects/robot.html)
