@@ -6,8 +6,6 @@ url: "http://midhul.github.io/cv/"
 collections:
   projects:
     output: true
-  info:
-    output: true
 
 markdown: rdiscount
 permalink: pretty
