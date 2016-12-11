@@ -12,9 +12,8 @@ The major determiner of QoE is the Rate Adaptation algorithm employed by the vid
 
 As a first step, I built a platform for experimentation by implementing a working version of a WebRTC based Peer Assisted Live Streaming System. A paper describing my preliminary work has been accepted in the Poster Track of the International Conference on COMmunication Systems & NETworkS 2017 (COMSNETS), and I will be presenting a poster in the conference which is scheduled in January 2017. I am presently trying to experiment with rate adaptation algorithms in this system using MiniNet emulations.
 
-COMSNETS 2017 Poster Paper:
-[[Paper in PDF format]]({{site.url}}comsnets-paper.pdf) 
-Preliminary Thesis Report:  
-[[View report in PDF format]]({{site.url}}pthesis.pdf)
-Preliminary Thesis Poster:
-[[View Poster in PDF Format]]({{site.url}}thesis-poster.pdf)
+
+
+* COMSNETS 2017 Poster Paper: [[Paper in PDF format]]({{site.url}}comsnets-paper.pdf)
+* Preliminary Thesis Report: [[View report in PDF format]]({{site.url}}pthesis.pdf)
+* Preliminary Thesis Poster: [[View Poster in PDF Format]]({{site.url}}thesis-poster.pdf)
