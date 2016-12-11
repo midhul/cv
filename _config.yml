@@ -4,13 +4,11 @@ description: ""
 url: "http://midhul.github.io/cv/"
 
 collections:
-  test:
-    output: true
-    permalink: /test/:path/
   info:
     output: true
   projects:
     output: true
+    permalink: /projects/:path/
 
 markdown: rdiscount
 permalink: pretty
