@@ -2,7 +2,7 @@
 layout: index
 ---
 
-## 
+## ANTSearch: A Document Search Engine for Wikipedia Pages
 
 Course Project (October 2016)
 
