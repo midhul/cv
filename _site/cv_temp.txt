@@ -1,0 +1,67 @@
+--Mobile Agent based Intelligent Tutoring System  June'15 - Present (ongoing)
+Dr. Shivashankar B. Nair (Summer project)
+The goal of the project is to build a mobile agent based system which operates on a network of laptops in a large classroom/workshop, and enables the instructor(s) to effectively monitor the progress of students and provide them assistance.
+* Implemented a basic framework for the system using the SWI-Prolog based Tartarus Mobile Agent platform, which was developed at the CSE robotics lab, IIT Guwahati
+* Built GUI applications to visualize emulation of the system using Electron (node.js based framework for desktop applications)  
+
+
+--Vehicle Management System (mobile & web app)
+Dr. P.K. Das
+* Worked in a team of 20 students to build a vehicle management system which provides various facilities such as theft reporting, parking availability and bus timings to vehicle owners and security personnel through web and android applications.
+* Designed and implemented a RESTful API on the server side using Django REST framework, and supporting client side library for the Android platform.
+
+--All-JS : Assembler,Linker,Loader & Simulator
+Dr. Santosh Biswas
+[Link to repo]
+* Implemented a two-pass assembler, linker, loader and simulator for a subset of the 8085 micro-processor instruction set, all in pure javascript.
+* All the entities were coupled into a single page interactive user interface which shows the process step by step and runs directly on the browser with no other dependencies.
+
+--Online course feedback system
+(from old cv)
+
+--Other projects 
+*4-bit CPU on breadboard
+*Text Editor written in Visual C++
+*Python script for downloaded website reorganization
+*Classroom voice amplification system (TechEvince 1.0, IIT Guwahati)
+
+--Achievements 
+(from old cv)
+
+--Technical proficiency
+*Good - C/C++, Python, Javascript, SWI-Prolog
+*Intermediate - Node.js, Electron, PHP, MySQL, Arduino, HTML, CSS
+*Basic - Java, Android, Bash scripting, LaTeX, Visual Basic
+
+--POR
+Organizer, Technothlon 2014
+*Involved in design of question paper, organization of on campus events and conduction in home city of nation-wide school championship organized by the students of IIT Guwahati.
+
+--Relevant courses
+Data Structures (+lab)
+Algorithms
+Discrete Mathematics
+Digital Design
+Formal Languages & Automata Theory
+Software Engineering (+lab)
+Computer Organization & Architecture (+lab) 
+Operating Systems* (+lab)
+Data Communications*
+Theory of Computation*
+
+--Extra-curriculars
+* Autonomous Maze solving robot - 4th place in the international round of the iARC competition held during
+TechKriti 2014 at IIT Kanpur.
+
+* Won and participated in various robotics and electronics events in Kriti 2014 & 15 (Inter-hostel technical competition)
+
+
+
+
+
+
+
+
+
+
+
