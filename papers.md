@@ -4,7 +4,6 @@ layout: index
 
 ### Publications
 
-Short descriptions of some of my projects:
 
 * Midhul Vuppalapati, Hema Kumar Yarnagula, and Venkatesh Tamarapalli. WebRTC-based peer
 assisted framework for HTTP live streaming. In *COMSNETS 2017 - Poster Track (COMSNETS
